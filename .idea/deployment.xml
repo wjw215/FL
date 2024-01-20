@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ubuntu@49.52.10.15:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="codefree@58.198.176.186:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/codefree/wjw/pycharmProject" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@49.52.10.15:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/wjw/pycharmProject" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
